@@ -3,13 +3,12 @@
 This privacy policy applies to the **Ente Thiruvambadi** mobile application (hereby referred to as "Application") for mobile devices that was created by **Muhammed Nabeel** (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 ### **Government Information Disclaimer**
-The Application provides information related to government services, panchayat members, and administrative contacts. **Muhammed Nabeel** is a private developer and **does not represent any government entity**. The Application is an independent platform providing public information for community convenience.
+The Application provides information related to government services, panchayat members, and administrative contacts for user convenience. **Ente Thiruvambadi** is an independent platform developed by **Muhammed Nabeel** and **does NOT represent any government entity**. This Application is not affiliated with, authorized, or endorsed by any government department.
 
 **Sources of Information:**
-The government contacts and public data available in this Application are sourced from official government websites and directories, including:
+All government-related information, contacts, and administrative data available in this Application are sourced exclusively from the following official government portals:
 *   [Local Self Government Department - Kerala](https://lsgkerala.gov.in)
 *   [Government of Kerala Official Portal](https://kerala.gov.in)
-*   Other publicly accessible government directories.
 
 This information is collected for user convenience and should be verified with official sources when necessary.
 
