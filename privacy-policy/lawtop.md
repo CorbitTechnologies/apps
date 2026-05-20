@@ -46,7 +46,7 @@ We implement commercially reasonable security measures to protect your personal 
 
 You have the right to:
 *   **Access & Update:** You can update your personal information (name, city) directly within the app profile settings.
-*   **Account Deletion:** You may request the deletion of your account and all associated data. To do so, please contact us at **muhammednabeelhere@gmail.com**. We will process your request within 7-14 business days, subject to any legal retention requirements.
+*   **Account Deletion:** You may request the deletion of your account and all associated data. To do so, please contact us at **contact@corbittechnologies.com**. We will process your request within 7-14 business days, subject to any legal retention requirements.
 
 ### 7. Children's Privacy
 
