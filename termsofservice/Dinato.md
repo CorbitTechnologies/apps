@@ -1,81 +1,178 @@
-Terms of Service for Dinato
-Last Updated: June 27, 2026
+# Terms of Service for Dinato
 
-Welcome to Dinato! These Terms of Service ("Terms") govern your use of the Dinato mobile application (the "App") operated by Corbit Technologies ("we," "our," or "us"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree, please do not use the App.
+**Last Updated:** June 27, 2026
 
-1. Acceptance of Terms
-By accessing or using Dinato, you confirm that you are at least 13 years of age (or the minimum age in your jurisdiction) and agree to comply with and be bound by these Terms.
+Welcome to **Dinato**! These Terms of Service ("Terms") govern your use of the Dinato mobile application (the **"App"**) operated by **Corbit Technologies** ("we," "our," or "us"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree, please do not use the App.
 
-2. Description of Service
-Dinato is a platform connecting home cooks with customers that allows users to:
+---
 
-Discover, order, and review home-cooked meals
-Manage kitchen profiles, menus, and incoming orders (for cooks)
-Track order statuses, earnings, and business analytics
-Participate in subscriptions for premium features and better visibility
-3. User Responsibilities
+## 1. Acceptance of Terms
+
+By accessing or using Dinato, you confirm that you are at least **13 years of age** (or the minimum legal age in your jurisdiction) and agree to comply with these Terms.
+
+---
+
+## 2. Description of Service
+
+Dinato is a platform that connects home cooks with customers. The App allows users to:
+
+- Discover, order, and review home-cooked meals.
+- Manage kitchen profiles, menus, and incoming orders (for cooks).
+- Track order statuses, earnings, and business analytics.
+- Subscribe to premium features for increased visibility and additional benefits.
+
+---
+
+## 3. User Responsibilities
+
 You are responsible for:
 
-Maintaining the confidentiality of your account credentials
-All activities that occur under your account
-Ensuring the accuracy of information you provide
-Using the App in compliance with applicable laws, including local food safety regulations
-4. Account Registration
-To use certain features, you must create an account. You agree to:
+- Maintaining the confidentiality of your account credentials.
+- All activities that occur under your account.
+- Ensuring the information you provide is accurate and up to date.
+- Using the App in compliance with all applicable laws and regulations, including local food safety requirements.
 
-Provide accurate and complete registration information
-Keep your login credentials secure
-Notify us immediately of any unauthorized use
-Not share your account with others
-5. Acceptable Use
-You agree NOT to:
+---
 
-Use the App for any unlawful purpose
-Attempt to gain unauthorized access to any part of the App
-Interfere with or disrupt the App's functionality
-Upload malicious content or viruses
-Impersonate any person or entity
-Scrape, data mine, or use automated systems to access the App
-Reverse engineer or decompile any part of the App
-6. Intellectual Property
-All content, features, and functionality of Dinato, including but not limited to text, graphics, logos, icons, images, data, and software, are the exclusive property of Corbit Technologies and are protected by copyright, trademark, and other intellectual property laws.
+## 4. Account Registration
 
-7. User Content
-You retain ownership of any content you submit through the App (such as dish photos, reviews, or kitchen details). By submitting content, you grant us a worldwide, non-exclusive, royalty-free license to use, reproduce, modify, and display such content in connection with providing the App's services.
+To use certain features of the App, you must create an account. You agree to:
 
-8. Food Quality and Safety Disclaimer
-Dinato acts solely as a platform to connect independent home cooks with customers. We do not prepare, handle, or deliver the food. The respective cooks are solely responsible for the safety, quality, hygiene, and legal compliance of all meals prepared and sold. We do not guarantee or warranty the quality or safety of any food ordered through the App, and we are not liable for any illness, allergy, or injury resulting from the consumption of such food.
+- Provide accurate and complete registration information.
+- Keep your login credentials secure.
+- Notify us immediately of any unauthorized access or use of your account.
+- Not share your account with any other person.
 
-9. Privacy
-Your use of the App is also governed by our Privacy Policy, which describes how we collect, use, and protect your information. By using the App, you consent to the collection and use of data as outlined in the Privacy Policy.
+---
 
-10. Subscription and Payments
-If applicable, certain features (such as premium cook tiers) may require a subscription. You agree to:
+## 5. Acceptable Use
 
-Pay all fees associated with your subscription or food orders
-Authorize us to charge your chosen payment method
-Understand that subscriptions auto-renew unless canceled in your account settings
-11. Limitation of Liability
-To the maximum extent permitted by law:
+You agree **not** to:
 
-The App is provided "as is" without warranties of any kind
-We do not guarantee uninterrupted or error-free service
-We are not liable for any indirect, incidental, or consequential damages
-Our total liability shall not exceed the amount you paid for the App or services (if any)
-12. Indemnification
-You agree to indemnify and hold harmless Corbit Technologies and its officers, directors, employees, and agents from any claims, losses, or damages arising from your use of the App, your preparation or consumption of food, or your violation of these Terms.
+- Use the App for any unlawful purpose.
+- Attempt to gain unauthorized access to any part of the App.
+- Interfere with or disrupt the App or its services.
+- Upload malicious software, viruses, or harmful code.
+- Impersonate any person or organization.
+- Scrape, data mine, or use automated tools to access the App.
+- Reverse engineer, decompile, or modify any part of the App.
 
-13. Termination
-We reserve the right to suspend or terminate your access to the App at any time, for any reason, without notice. You may also terminate your account at any time through the App settings.
+---
 
-14. Changes to Terms
-We may update these Terms from time to time. We will notify you of any material changes by posting the new Terms within the App and updating the "Last Updated" date. Continued use of the App after changes constitutes acceptance of the updated Terms.
+## 6. Intellectual Property
 
-15. Governing Law
-These Terms are governed by and construed in accordance with the laws of India, without regard to conflict of law principles.
+All content, features, functionality, text, graphics, logos, icons, images, software, and other materials within Dinato are the exclusive property of **Corbit Technologies** and are protected by applicable copyright, trademark, and intellectual property laws.
 
-16. Contact Us
-If you have any questions about these Terms, please contact us at: Corbit Technologies Email: 
-contact@corbittechnologies.com
+---
 
+## 7. User Content
 
+You retain ownership of the content you submit through the App, including but not limited to:
+
+- Dish photos
+- Reviews
+- Kitchen information
+- Menu descriptions
+
+By submitting content, you grant Corbit Technologies a worldwide, non-exclusive, royalty-free license to use, reproduce, modify, display, and distribute such content solely for operating, improving, and promoting the App.
+
+---
+
+## 8. Food Quality and Safety Disclaimer
+
+Dinato acts solely as a technology platform connecting independent home cooks with customers.
+
+We do **not** prepare, cook, package, store, or deliver food.
+
+Each cook is solely responsible for:
+
+- Food quality
+- Hygiene
+- Food safety
+- Ingredient accuracy
+- Compliance with applicable food laws and regulations
+
+Corbit Technologies does not guarantee the quality, safety, freshness, or suitability of any food ordered through the App and shall not be liable for any illness, allergic reaction, injury, or damages resulting from food prepared by independent cooks.
+
+---
+
+## 9. Privacy
+
+Your use of Dinato is also governed by our **Privacy Policy**, which explains how we collect, use, store, and protect your information.
+
+By using the App, you consent to our data practices as described in the Privacy Policy.
+
+---
+
+## 10. Subscription and Payments
+
+Certain features may require paid subscriptions or payments.
+
+By purchasing a subscription or placing an order, you agree to:
+
+- Pay all applicable fees.
+- Authorize charges to your selected payment method.
+- Understand that subscriptions automatically renew unless canceled through your account settings before the renewal date.
+
+---
+
+## 11. Limitation of Liability
+
+To the fullest extent permitted by applicable law:
+
+- The App is provided **"as is"** and **"as available"** without warranties of any kind.
+- We do not guarantee uninterrupted, secure, or error-free operation.
+- We are not liable for indirect, incidental, special, consequential, or punitive damages.
+- Our maximum liability shall not exceed the total amount paid by you for the App or related services, if any.
+
+---
+
+## 12. Indemnification
+
+You agree to indemnify, defend, and hold harmless **Corbit Technologies**, its directors, officers, employees, partners, and affiliates from any claims, liabilities, damages, losses, or expenses arising from:
+
+- Your use of the App.
+- Food prepared or consumed through the platform.
+- Your violation of these Terms.
+- Your violation of any applicable law or third-party rights.
+
+---
+
+## 13. Termination
+
+We reserve the right to suspend or terminate your account or access to the App at any time, with or without notice, for any reason, including violations of these Terms.
+
+You may also permanently delete your account through the App settings, subject to applicable legal record retention requirements.
+
+---
+
+## 14. Changes to These Terms
+
+We may update these Terms from time to time.
+
+When material changes are made:
+
+- The updated Terms will be published within the App.
+- The **Last Updated** date will be revised.
+
+Your continued use of the App after such updates constitutes acceptance of the revised Terms.
+
+---
+
+## 15. Governing Law
+
+These Terms shall be governed by and interpreted in accordance with the laws of **India**, without regard to conflict of law principles.
+
+---
+
+## 16. Contact Us
+
+If you have any questions regarding these Terms of Service, please contact us.
+
+**Corbit Technologies**
+
+**Email:** contact@corbittechnologies.com
+
+---
+
+© 2026 Corbit Technologies. All rights reserved.
