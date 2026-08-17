@@ -86,6 +86,6 @@ We may update this Privacy Policy from time to time. When changes are made, we w
 
 If you have questions, concerns, or privacy inquiries regarding this policy, please contact us at:
 
-* **Email:** [support@hoxfor.com](mailto:support@hoxfor.com)  
-* **Website:** [https://hoxfor.com](https://hoxfor.com)  
+* **Email:** (mailto:Email: contact@corbittechnologies.com)  
+
 * **Support Center:** In-App **Help & Support** tab
