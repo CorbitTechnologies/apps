@@ -1,4 +1,4 @@
-# Privacy Policy for SmartqHospital
+# Privacy Policy for Smartq
 
 **Last Updated:** September 9, 2026
 
