@@ -3,7 +3,7 @@
 This privacy policy applies to the **Peravoor Connect** mobile application (hereby referred to as "Application") for mobile devices as a Free service. This service is intended for use "AS IS".
 
 ### **Government Information Disclaimer**
-The Application provides information related to government services, panchayat members, and administrative contacts for user convenience. **Ente Thiruvambadi** is an independent platform **does NOT represent any government entity**. This Application is not affiliated with, authorized, or endorsed by any government department.
+The Application provides information related to government services, panchayat members, and administrative contacts for user convenience. **Peravoor Connect** is an independent platform **does NOT represent any government entity**. This Application is not affiliated with, authorized, or endorsed by any government department.
 
 **Sources of Information:**
 All government-related information, contacts, and administrative data available in this Application are sourced exclusively from the following official government portals:
@@ -49,7 +49,7 @@ You can stop all collection of information by the Application easily by uninstal
 
 **Data Retention Policy**
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at muhammednabeelhere@gmail.com and they will respond in a reasonable time.
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at contact@corbit.tech and they will respond in a reasonable time.
 
 **Children**
 
