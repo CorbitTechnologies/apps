@@ -74,8 +74,7 @@ We retain personal information only for as long as necessary to fulfill the purp
 
 #### B. Account & Data Deletion (User Rights)
 In accordance with Google Play and Apple App Store policies, you have the right to request the deletion of your account and associated personal data at any time:
-1. **In-App:** You can initiate account deletion via the **Settings ➔ Account ➔ Delete Account** section within the App.
-2. **Via Email:** You can submit a deletion request by emailing us at **privacy@corbittechnologies.com** with the subject line *"Account Deletion Request"*.
+**In-App:** You can initiate account deletion via the **Settings ➔ Account ➔ Delete Account** section within the App.
 
 Upon receiving your request, we will permanently delete or anonymize your personal data within thirty (30) days, except where retention is required by law.
 
